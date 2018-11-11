@@ -23,6 +23,6 @@ When you believe your BLIP is mature and ready to progress past the draft phase,
 * **Final** - a BLIP that has been in Last Call for at least 2 weeks and any technical changes that were requested have been addressed by the author.
 * **Deferred** - a BLIP that is not being considered for immediate adoption. May be reconsidered in the future for a subsequent hard fork.
 
-# Credit
+## Credit
 
 Based on the model and templates put forth for [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs).
