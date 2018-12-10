@@ -2,6 +2,7 @@
 blip: <to be assigned>
 title: Simplify BloomID
 author: Isaac Patka (@ipatka)
+discussions-to: https://github.com/hellobloom/BLIPs/issues/6
 status: Draft
 created: 2018-11-19
 ---
