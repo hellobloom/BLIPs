@@ -1,5 +1,5 @@
 ---
-blip: <to be assigned>
+blip: 1
 title: Simplify BloomID
 author: Isaac Patka (@ipatka)
 discussions-to: https://github.com/hellobloom/BLIPs/issues/6
