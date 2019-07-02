@@ -145,7 +145,7 @@ Tests are covered in the core contracts repo tests.
 
 ## Implementation
 <!--The implementations must be completed before any BLIP is given status "Final", but it need not be completed before the BLIP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.-->
-Implementation is a WIP on the trustlessContracts branch of the core repo [Branch Link](https://github.com/hellobloom/core/tree/trustlessContracts).
+Smart contract changes have been merged in the core repo [Branch Link](https://github.com/hellobloom/core/pull/36).
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Based on the Ethereum Improvement Proposal template.
