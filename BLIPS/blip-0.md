@@ -1,9 +1,9 @@
 ---
-blip: <to be assigned>
+blip: 0
 title: Trustless Bloom Protocol Smart Contracts
 author: Isaac Patka (@ipatka)
 discussions-to: https://github.com/hellobloom/BLIPs/issues/5
-status: Draft
+status: Accepted
 created: 2018-11-19
 ---
 
